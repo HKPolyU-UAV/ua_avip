@@ -1,5 +1,5 @@
 # UA-AVIP
-Our paper, entitled "Multimodal Fusion for Underwater Localization through Hierarchical Uncertainty Awareness", has been published in TIM (DOI: \url{10.1109/TIM.2026.3694728})
+Our paper, entitled "Multimodal Fusion for Underwater Localization through Hierarchical Uncertainty Awareness", has been published in TIM (DOI: https://doi.org/10.1109/TIM.2026.3694728)
 
 ## Demo 
 ### Demo on Pool sequences (Speed *5)
