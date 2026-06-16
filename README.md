@@ -1,5 +1,5 @@
 # UA-AVIP
-UA-AVIP: Multi-Modal Fusion for Underwater Localization through Hierarchical Uncertainty Awareness
+Our paper, entitled "Multimodal Fusion for Underwater Localization through Hierarchical Uncertainty Awareness", has been published in TIM (DOI: 10.1109/TIM.2026.3694728)
 
 ## Demo 
 ### Demo on Pool sequences (Speed *5)
